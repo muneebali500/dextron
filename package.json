@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "json-server": "concurrently \"vite\" \"json-server --watch db.json --port 3000\"",
-    "start-mock-api": "NODE_ENV=production RUN_MOCK_API=true node server.js"
+    "start": "NODE_ENV=production RUN_MOCK_API=true node server.js"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
