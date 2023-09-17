@@ -15,14 +15,14 @@ import {
 } from "@api/api";
 
 ////////////////////// IMPORTING IMAGES AND ICONS ////////////////////////
-import searchIcon from "@Assets/search-normal.png";
-import plusSign from "@Assets/add-blue-circle.svg";
-import addLink from "@Assets/addlink.svg";
-import folderOpenSm from "@Assets/folder-open-white.svg";
-import driveWhite from "@Assets/drive-white.svg";
-import rightArrow from "@Assets/chevRight.png";
+import searchIcon from "@assets/search-normal.png";
+import plusSign from "@assets/add-blue-circle.svg";
+import addLink from "@assets/addlink.svg";
+import folderOpenSm from "@assets/folder-open-white.svg";
+import driveWhite from "@assets/drive-white.svg";
+import rightArrow from "@assets/chevRight.png";
 import { CloseIconBlack, Spinner } from "utils/icons";
-import lod from "@Assets/loader.svg";
+import lod from "@assets/loader.svg";
 
 //////////////////// IMPORINTG CUSTOM COMPONENTS ///////////////////////
 import Document from "@components/Drive/Document";
